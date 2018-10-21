@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>56293935-BCB3-4CFE-A7B2-5B3E7E20488F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>56293935-BCB3-4CFE-A7B2-5B3E7E20488F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MapPart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MapPart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MapPart with scheme MapPart and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561602910.33603001</real>
+			<key>timeStoppedRecording</key>
+			<real>561602927.02909899</real>
+			<key>title</key>
+			<string>Building workspace MapPart with scheme MapPart and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>56293935-BCB3-4CFE-A7B2-5B3E7E20488F</string>
+		</dict>
+		<key>B5079389-F37C-43A8-A21F-693E83C6CA50</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B5079389-F37C-43A8-A21F-693E83C6CA50.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MapPart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MapPart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MapPart with scheme MapPart and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561617119.84923398</real>
+			<key>timeStoppedRecording</key>
+			<real>561617389.09498703</real>
+			<key>title</key>
+			<string>Building workspace MapPart with scheme MapPart and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B5079389-F37C-43A8-A21F-693E83C6CA50</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

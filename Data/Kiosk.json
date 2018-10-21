@@ -1,0 +1,32 @@
+{
+    "Kiosk": [
+        {
+            "id": "1",
+            "Address": "Kiosk Street, Los Angeles",
+            "Status": "ON",
+            "GeoLocation": {
+            "lat": 35.00,
+            "lon": -118.00
+            }
+        },
+        {
+            "id": "2",
+            "Address": "Team05 Road, Los Angeles",
+            "Status": "OFF",
+            "GeoLocation": {
+            "lat": 33.00,
+            "lon": -117.00
+            }
+        },
+        {
+            "id": "3",
+            "Address": "Perfecto Blvd, Los Angeles",
+            "Status": "ON",
+            "GeoLocation": {
+            "lat": 33.00,
+            "lon": -117.00
+            }
+        }
+    ]
+    
+}
