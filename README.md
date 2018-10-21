@@ -13,6 +13,7 @@ CSCI577a - Software Development - Team 05 - Perfecto Coffee
 + Find **Libraries** in Project Navigator and click right to choose **Add Files to "[Your Project]" ...**
 + Find **AirMaps.xcodeproj** in **node_modules/react-native-maps/lib/ios** and add it
 + Find **Link Binary With Libraries** in **Build Phases** and add **libAirMaps.a**
++ See more discussions in https://github.com/react-community/react-native-maps/issues/2005
 
 ## Google Place Installation:
 + Follow the instructions in https://github.com/tolu360/react-native-google-places, highly remommend **Manual Linking With Your Project (iOS)**
