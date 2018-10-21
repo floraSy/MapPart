@@ -18,7 +18,7 @@ CSCI577a - Software Development - Team 05 - Perfecto Coffee
 ## Google Place Installation:
 + Follow the instructions in https://github.com/tolu360/react-native-google-places, highly remommend **Manual Linking With Your Project (iOS)**
 
-## Google Place Autocomplete Installation;
+## Google Place Autocomplete Installation:
 + Follow the instructions in https://github.com/FaridSafi/react-native-google-places-autocomplete
 
 
